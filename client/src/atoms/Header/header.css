@@ -1,0 +1,33 @@
+.header{
+    margin-top:60px;
+}
+
+.headerTitles{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    color:rgb(39, 2, 37);
+    font-family: 'lora','poppins';
+}
+
+.headerTitleSm{
+    padding-top: 220px;
+    position:absolute;
+    top:9%;
+    font-size:20px;
+}
+
+.headerTitleLg{
+    margin-top: 120px;
+    position: absolute;
+    top:11%;
+    font-size: 70px;
+}
+
+.header-image{
+    width: 100%;
+    height: 450px;
+    margin-top: 0px;
+    object-fit: cover;
+}
+
